@@ -32,7 +32,7 @@
   "bugs": "https://github.com/tatumio/tatum-blockchain-connector/issues",
   "peerDependencies": {
     "@nestjs/common": "^7.6.1",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "bignumber.js": "^9.0.0",
     "class-transformer": "^0.2.3",
     "class-validator": "0.14.0",
@@ -48,7 +48,7 @@
   "devDependencies": {
     "@nestjs/common": "^7.6.1",
     "@tatumio/tatum": "^1.17.1",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "bignumber.js": "^9.0.0",
     "class-transformer": "^0.2.3",
     "class-validator": "0.14.0",
